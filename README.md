@@ -1,2 +1,0 @@
-# testeanjuntfk
-Ambiente de Teste
